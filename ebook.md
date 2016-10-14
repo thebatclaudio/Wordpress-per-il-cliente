@@ -89,6 +89,9 @@ Inoltre a seconda della configurazione dell’utente alcune aree saranno nascost
 
 Passando con il mouse sul link nella barra laterale **Articoli** si apre un piccolo menù, clicca su **Aggiungi nuovo**.
 
+![Aggiungi nuovo](images/aggiungi-nuovo-articolo.png)
+
+
 Nel piccolo campo in alto si scrive il titolo dell’articolo, è preferibile essere chiari e brevi.
 L’interfaccia è essenziale, sul grande box centrale è possibile scrivere il proprio articolo utilizzando la barra degli strumenti come in Word.
 
